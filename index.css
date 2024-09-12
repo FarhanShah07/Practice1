@@ -1,0 +1,30 @@
+.Web{
+    color: Red;
+    background-color: aqua;
+    border: 3px solid black;
+    text-align: center;
+    margin-left: 355px;
+    margin-right: 355px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.Page1{
+    color: rgba(10, 71, 88, 0.728);
+    border: 2px solid black;
+    width: 40%;
+    display: inline-block;
+    padding: 30px;
+    margin-left: 15px;
+    border-radius: 10px;
+    background-color: rgb(70, 237, 223);
+}
+.Page2{
+    color: rgb(23, 53, 103);
+    border: 2px solid black;
+    width: 40%;
+    display: inline-block;
+    padding: 30px;
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: rgb(138, 226, 223);
+}
